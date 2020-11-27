@@ -1,0 +1,11 @@
+E:\ASP.NET MVC\barkodUygulama\barkodUygulama\bin\Debug\barkodUygulama.exe.config
+E:\ASP.NET MVC\barkodUygulama\barkodUygulama\bin\Debug\barkodUygulama.exe
+E:\ASP.NET MVC\barkodUygulama\barkodUygulama\bin\Debug\barkodUygulama.pdb
+E:\ASP.NET MVC\barkodUygulama\barkodUygulama\obj\Debug\barkodUygulama.csprojResolveAssemblyReference.cache
+E:\ASP.NET MVC\barkodUygulama\barkodUygulama\obj\Debug\barkodUygulama.Form1.resources
+E:\ASP.NET MVC\barkodUygulama\barkodUygulama\obj\Debug\barkodUygulama.Properties.Resources.resources
+E:\ASP.NET MVC\barkodUygulama\barkodUygulama\obj\Debug\barkodUygulama.csproj.GenerateResource.Cache
+E:\ASP.NET MVC\barkodUygulama\barkodUygulama\obj\Debug\barkodUygulama.exe
+E:\ASP.NET MVC\barkodUygulama\barkodUygulama\obj\Debug\barkodUygulama.pdb
+E:\ASP.NET MVC\barkodUygulama\barkodUygulama\bin\Debug\MessagingToolkit.QRCode.dll
+E:\ASP.NET MVC\barkodUygulama\barkodUygulama\bin\Debug\Zen.Barcode.Core.dll
